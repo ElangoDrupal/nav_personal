@@ -1,0 +1,40 @@
+#logo{
+	width :500px;
+    text-align: right;
+    padding-left: 50px;
+    text-decoration-color: black;
+}
+
+
+.siteheader{{
+	background: black;
+}
+
+h1{
+	 margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+
+}
+h1#site-title{
+  font-size: 38px;
+  margin: 20px 0;
+}
+
+h1#site-title a{
+  font-size: 42px;
+  margin: 10px 0;
+  display: block;
+  color: black;
+  line-height: 100%;
+}
+#site-title_new{
+  font-size: 42px;
+  margin: 10px 0;
+  display: block;
+  color: black;
+  line-height: 100%;
+}
